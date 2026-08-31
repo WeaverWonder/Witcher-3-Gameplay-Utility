@@ -133,3 +133,4 @@ Focus: Next-gen trainer, profiles, progression and inventory tools
 ## Disclaimer
 
 Independent community project; not affiliated with CD PROJEKT RED, GOG, Steam or Valve.
+                                                                                                    
